@@ -1,5 +1,3 @@
-const testVar = {}
-
-function testFunc() {
-  return "hi"
-}
+function superbowlWin(o){
+  o.find( ({ result }) => result === "W")
+};
