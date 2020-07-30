@@ -1,3 +1,3 @@
 function superbowlWin(o){
-  o.find( ({ result }) => result === "W")
+  o.find( ({ result }) => result === "W");
 };
